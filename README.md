@@ -1,2 +1,3 @@
 # bela-workshop-2018
-A short introductory workshop for Bela
+
+A short workshop introducing Bela and Pure Data
